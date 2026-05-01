@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn==1.3.0
+spacy
+matplotlib
+wordcloud
+requests
+beautifulsoup4
+lxml
+tqdm
+pyarrow
