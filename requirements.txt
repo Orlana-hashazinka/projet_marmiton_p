@@ -1,12 +1,9 @@
 streamlit
 pandas
 numpy
-scikit-learn==1.2.2
-#spacy
+scikit-learn
+spacy==3.8.8
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.8.0/fr_core_news_md-3.8.0-py3-none-any.whl
 matplotlib
-wordcloud
-requests
-beautifulsoup4
-lxml
-tqdm
-pyarrow
+seaborn
+regex
